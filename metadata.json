@@ -1,0 +1,7 @@
+{
+  "name": "QC Master Pro",
+  "description": "Industrial Quality Control System for process inspection, weight calculation, and shipping management with professional reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
